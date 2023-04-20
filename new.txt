@@ -1,0 +1,13 @@
+Thu Apr 20 14:44:14 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   20G  9.7G   11G  49% /
+  997  sd ANNA
+  998  cd ANNA
+  999  date > new.txt
+ 1000  df -h / >> new.txt 
+ 1001  history | tail -n 5 >> new.txt 
+ AuthenticAMD
+111
+0
+0
+109
